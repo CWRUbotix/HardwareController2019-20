@@ -1,0 +1,12 @@
+Added Component: Designator=P7(HDDR_6X1_0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CONN-00008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions per level"; Value = "6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5VD Pin=P7-1
+Added Pin To Net: NetName=3V3 Pin=P7-2
+Added Pin To Net: NetName=SPI_CLK_3V3 Pin=P7-3
+Added Pin To Net: NetName=SPI_MOSI_3V3 Pin=P7-4
+Added Pin To Net: NetName=SPI_MISO_3V3 Pin=P7-5
+Added Pin To Net: NetName=DGND Pin=P7-6
+Added Member To Class: ClassName=BBB_SCH2 Member=Component P7 conn-6x1_0

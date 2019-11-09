@@ -1,0 +1,16 @@
+Added Component: Designator=D5(do-214ac)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cost"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "SMAJ5.0A-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DIO-00036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "400W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Breakdown Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "TVS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=D5-1
+Added Pin To Net: NetName=+5VO Pin=D5-2
+Added Member To Class: ClassName=power_SCH1 Member=Component D5 diode_5
+Added Member To Class: ClassName=BBB_SCH2 Member=Component U8 BBB
