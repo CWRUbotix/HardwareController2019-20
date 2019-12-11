@@ -1,0 +1,29 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Hardware_Controller_2019-20.PrjPCB]
+   Generated File[HardwareControllerPCB_Copper_Signal_Top.gbr]
+   Generated File[HardwareControllerPCB_Copper_Signal_1.gbr]
+   Generated File[HardwareControllerPCB_Copper_Signal_2.gbr]
+   Generated File[HardwareControllerPCB_Copper_Signal_Bot.gbr]
+   Generated File[HardwareControllerPCB_Pads_Bot.gbr]
+   Generated File[HardwareControllerPCB_Pads_Top.gbr]
+   Generated File[HardwareControllerPCB_Soldermask_Bot.gbr]
+   Generated File[HardwareControllerPCB_Legend_Top.gbr]
+   Generated File[HardwareControllerPCB_Paste_Top.gbr]
+   Generated File[HardwareControllerPCB_Soldermask_Top.gbr]
+   Generated File[HardwareControllerPCB_Mechanical_13.gbr]
+   Generated File[HardwareControllerPCB_Mechanical_1.gbr]
+   Generated File[HardwareControllerPCB_Mechanical_15.gbr]
+   Generated File[HardwareControllerPCB_Profile.gbr]
+   Generated File[HardwareControllerPCB_PTH_Drill.gbr]
+   Generated File[HardwareControllerPCB_Drawing_1.gbr]
+   Generated File[HardwareControllerPCB_Drillmap_1.gbr]
+   Generated File[HardwareControllerPCB.RUL]
+   Generated File[HardwareControllerPCB.EXTREP]
+   Generated File[HardwareControllerPCB.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 12:59:45 AM On 2019-12-04
